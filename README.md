@@ -1,11 +1,11 @@
 # My Learning Journal
 
-### Growth Mindset
+### ~~Fixed~~ Growth Mindset
 
-Growth mindset is awesome and gives you the power of the future
-1. challenge is how we better ourselves
-1. everyone has something to offer
-1. growth mindset leads to success
+ Growth mindset is changing your perspective to embrace challenges to become better
+1. we do not grow when everyhting is comfortable. True growth happens when you are out of your comfort zone.
+1. We cannot control what happens to us only how we respond. 
+1. If your not growing your declining.
 
 
 # Learning-Journal
