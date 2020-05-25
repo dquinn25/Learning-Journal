@@ -15,8 +15,8 @@
 - PWD means Command
 - Root Directory is denoted by /
 - ~ (tilde) - This is a shortcut for your home directory
-. (dot) - This is a reference to your current directory. 
-.. (dotdot) This is a reference to the parent directory
+- . (dot) - This is a reference to your current directory. 
+- .. (dotdot) This is a reference to the parent directory
 - / nulifys sspecial meaning
 
 ## Terminalogy
