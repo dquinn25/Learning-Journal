@@ -21,8 +21,8 @@
 
 ## Terminalogy
 
-- Relative pathA file or directory location relative to where we currently are in the file system.
-- Absolute pathA file or directory location in relation to the root of the file system.
+- Relative path A file or directory location relative to where we currently are in the file system.
+- Absolute path A file or directory location in relation to the root of the file system.
 - file.exe  an executable file, or program.
 - file.txt  a plain text file.
 - file.png, file.gif, file.jpg an image.
