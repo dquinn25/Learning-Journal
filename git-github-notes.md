@@ -11,5 +11,5 @@
 - cd : change dirrectory
 - git status : determine state of files. to track one file use git add filename
 - gitt add/ git commit -a : commits a snapshot of all modification to tracked files in the working directory.
-git push orgin master : *This command pushes changes from the local “master” branch to the remote repository named “origin"
+git push origin master : *This command pushes changes from the local “master” branch to the remote repository named “origin"
 
