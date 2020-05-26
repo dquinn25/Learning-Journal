@@ -15,6 +15,6 @@ I am nothing like him | He showed its possible I can do it too
 
 # Learning-Journal
 ## Level 2 Heading
-###### Leve 6 heading
+###### Level 6 heading
 
 This is my learning journal
