@@ -9,6 +9,6 @@
 - [git vs git hub](git-github-notes.md) 
 - [Markdown](markdown-notes.md)
 - [Computer notes](computer-setup.md)
-- [lessons form class 3](Lessons-from-class-03)   
+- [lessons form class 3](Lessons-learned-03.md)   
    
    
