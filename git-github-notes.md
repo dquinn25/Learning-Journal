@@ -1,4 +1,4 @@
-# notes on Git
+# Notes on Git
 
 ## What is Git?
 - A digital Version Control system (DVCS) used for backing up data
