@@ -17,7 +17,7 @@
 - ~ (tilde) - This is a shortcut for your home directory
 - . (dot) - This is a reference to your current directory. 
 - .. (dotdot) This is a reference to the parent directory
-- / nulifys sspecial meaning
+- / nulifys special meaning
 
 ## Terminalogy
 

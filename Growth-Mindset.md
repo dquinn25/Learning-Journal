@@ -12,9 +12,3 @@ This is *hard* I cannot do this | I will overcome this challenge
 I do't know how | I will use my resources to accomplish this task
 I am nothing like him | He showed its possible I can do it too
 
-
-# Learning-Journal
-## Level 2 Heading
-###### Level 6 heading
-
-This is my learning journal
