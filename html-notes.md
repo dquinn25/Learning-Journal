@@ -11,4 +11,4 @@
 - id = individual
 - img src="(insert image)"    is how you post images
 - li needs to be inside the ul
--your tools are <h1><h1> to make titles
+- your tools are < h1 > < h1 > to make titles
