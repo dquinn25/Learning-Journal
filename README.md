@@ -11,4 +11,6 @@
 - [Computer notes](computer-setup.md)
 - [lessons from class 3](lessons-learned-03.md)   
 - [HTML notes](html-notes.md)
+- [CSS Notes](CSS-notes.md)
+
    
