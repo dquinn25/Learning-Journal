@@ -13,5 +13,5 @@
 - [HTML notes](html-notes.md)
 - [CSS Notes](CSS-notes.md)
 - [JavaScript Notes](javascript-notes.md)
-- [How Computers Work](notes-on-video.md)
-   
+- [How Computers Work](notes-on-video.md) 
+- [Function Notes](function-notes.md)   
