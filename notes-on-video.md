@@ -1,0 +1,11 @@
+- computers need to take in input, storage, process, out put
+- Input: takes in information
+- Sotrage: stores processed information in memory
+- processing: is how the computer uses the information givent to it
+- output: text, photos, games, any use
+- The Binary number system: only 2 digits 0 and 1
+- all images are made out of pixels that are made of RGB
+- sounds are reprsented by waves with numbers
+- central proscessing unit is the master chip that controls all the other parts. 
+- today binary has moved on to programing languages. 
+- everyhting is managed by the operating system
