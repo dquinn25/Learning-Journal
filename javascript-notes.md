@@ -1,0 +1,13 @@
+- Var= variable
+- Var today =new date();
+- var today is assigned 
+- = is a assignment operator
+- == comparative equals
+- === strict equals
+- Var catName = prompt(‘what is your cat\’s name?’)
+- make sure to put \ to cancel out '
+- (block will come up asking for cats name) enter garfeild
+- catName
+- Garfeild
+- Keep all lnguages in separate files
+- make sure to put javascript in a seperate window 

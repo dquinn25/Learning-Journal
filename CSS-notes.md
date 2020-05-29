@@ -19,7 +19,7 @@
 }
 color in the example is a property  
 red is a value
-- color changes the font
+- color changes the font    
 - background-color chanages the background
 - Css is the "feathers" the styling 
 - control + / will allow you to activate the css
