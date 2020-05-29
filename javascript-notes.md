@@ -6,8 +6,8 @@
 - === strict equals
 - Var catName = prompt(‘what is your cat\’s name?’)
 - make sure to put \ to cancel out '
-- (block will come up asking for cats name) enter garfeild
+- (block will come up asking for cats name) enter Garfield
 - catName
-- Garfeild
-- Keep all lnguages in separate files
+- Garfield
+- Keep all languages in separate files
 - make sure to put javascript in a seperate window 
