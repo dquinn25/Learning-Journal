@@ -1,0 +1,15 @@
+- Boolean is data that will have one of 2 results. usually true or false.
+-  ==     is equal to
+- != this operator compares two values  (numbers, strings, or Booleans) to see if they are not the same
+- === strict equal to
+- !strict not equal to
+- /> greater than
+- < less than
+- />= greater than or equal to
+- < less than or equal to 
+- && tests more than 1 condition
+- ll these test one condition
+- ! takes a value and inverts it
+- && test
+- for (var i = 0; i <9; i++) means it will start at 0 count to 9 and then stop
+- while (isNan(count))  has to do with value

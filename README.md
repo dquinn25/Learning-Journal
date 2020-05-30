@@ -14,4 +14,5 @@
 - [CSS Notes](CSS-notes.md)
 - [JavaScript Notes](javascript-notes.md)
 - [How Computers Work](notes-on-video.md) 
-- [Function Notes](function-notes.md)   
+- [Function Notes](function-notes.md)  
+- [for and while loops](loops-notes.md) 
